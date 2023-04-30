@@ -3,7 +3,7 @@ unit test in `test/`.
 
 ## OOP Concepts & Relationships
 
-![enter image description here](https://pluralsight2.imgix.net/paths/images/domain-driven-design-6d10f953a0.png)
+![enter image description here](https://www.datatrained.com/post/wp-content/uploads/2022/03/WHAT-IS-OOP-300x157.webp)
 
 First of all this article is my opinion about OOP Concepts and Relationships if you have any suggestions I will be happy to add
 it with its resources this repo just a reference if I or anyone want a recap, understanding, quick
